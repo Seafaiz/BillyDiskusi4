@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">MateriActivity</string>
-    <string name="UserNameEditText">Isi User Name</string>
-    <string name="PasswordEditText">Isi Password</string>
-    <string name="loginbutton">login</string>
-    <string name="tutupbutton">Close program</string>
-    <string name="kembali">Ke menu awal</string>
-</resources>
